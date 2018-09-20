@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EstudosProva</string>
+    <string name="titulo_main">My Calc</string>
+    <string name="calcula"> Calcula </string>
+    <string name="insira"> Insira a Quantidade: </string>
+    <string name="iec_b"> Calcula IEC </string>
+    <string name="si_b"> Calcula SI </string>
+
+</resources>
